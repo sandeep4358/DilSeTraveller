@@ -1,0 +1,2 @@
+INSERT INTO destination (name, country, description) VALUES ('Paris', 'France', 'City of Light');
+INSERT INTO destination (name, country, description) VALUES ('Tokyo', 'Japan', 'Land of the Rising Sun');
