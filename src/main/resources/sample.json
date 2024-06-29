@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Paris",
+    "country": "France",
+    "description": "City of Lights"
+  },
+  {
+    "id": 2,
+    "name": "Tokyo",
+    "country": "Japan",
+    "description": "Vibrant city with rich culture"
+  },
+  {
+    "id": 3,
+    "name": "New York City",
+    "country": "USA",
+    "description": "The Big Apple"
+  },
+  {
+    "id": 4,
+    "name": "Rome",
+    "country": "Italy",
+    "description": "Historical city with ancient ruins"
+  },
+  {
+    "id": 5,
+    "name": "Sydney",
+    "country": "Australia",
+    "description": "Harbor city with iconic Opera House"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "travelerName": "John Doe",
+    "travelDate": "2023-01-15",
+    "destination": {
+      "id": 1,
+      "name": "Paris",
+      "country": "France",
+      "description": "City of Lights"
+    }
+  },
+  {
+    "id": 2,
+    "travelerName": "Alice Smith",
+    "travelDate": "2023-02-20",
+    "destination": {
+      "id": 2,
+      "name": "Tokyo",
+      "country": "Japan",
+      "description": "Vibrant city with rich culture"
+    }
+  },
+  {
+    "id": 3,
+    "travelerName": "Michael Brown",
+    "travelDate": "2023-03-10",
+    "destination": {
+      "id": 3,
+      "name": "New York City",
+      "country": "USA",
+      "description": "The Big Apple"
+    }
+  },
+  {
+    "id": 4,
+    "travelerName": "Emma Johnson",
+    "travelDate": "2023-04-05",
+    "destination": {
+      "id": 4,
+      "name": "Rome",
+      "country": "Italy",
+      "description": "Historical city with ancient ruins"
+    }
+  },
+  {
+    "id": 5,
+    "travelerName": "James Wilson",
+    "travelDate": "2023-05-12",
+    "destination": {
+      "id": 5,
+      "name": "Sydney",
+      "country": "Australia",
+      "description": "Harbor city with iconic Opera House"
+    }
+  }
+]
